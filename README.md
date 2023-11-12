@@ -1,7 +1,7 @@
 # citybike
 
 - local docker PostgreSQL 
-- two databases: station and journey tables
+- station and journey tables
 
 - Station list
  - List all stations
