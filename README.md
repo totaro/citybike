@@ -15,4 +15,4 @@
  - Avarage duration of journeys starting from the station
 
 -javascript and html
--express and pg node modules
+-express and pg node modules, webpack
