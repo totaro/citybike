@@ -16,3 +16,8 @@
 
 -javascript and html
 -express and pg node modules, webpack
+
+
+![citybike1](https://github.com/totaro/citybike/assets/66010583/09861c12-ddd2-4b3b-9816-a056a19280f7)
+
+![citybike2](https://github.com/totaro/citybike/assets/66010583/fb42e01d-e682-4991-8a71-1a71cb080faa)
