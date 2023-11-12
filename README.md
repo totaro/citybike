@@ -43,6 +43,7 @@ Avarage duration of journeys starting from the station
  - Average distance of journeys starting from the station
  - Avarage duration of journeys starting from the station
 
+My solution:
 -javascript and html
 -express and pg node modules, webpack
 
