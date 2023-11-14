@@ -44,7 +44,7 @@ javascript and html / express and pg node.js modules / webpack<br>
 
 - webpack.config.js file for configuring Webpack that is used to bundle client.js (command: npx webpack --config webpack.config.js)
 
-- HTML file (index.html) where fetched data is displayed on data-container div and includes the bundled script.
+- HTML file (index.html) where fetched data is displayed on data-container div and includes the bundled script (bundle.js).
 
 - Running server (command: node server.js) and open in browser at http://localhost:3000<br><br>
 
