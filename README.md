@@ -9,7 +9,7 @@ The exercise uses data that is owned by City Bike Finland. We provide database t
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-05.csv<br>
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-06.csv<br>
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-07.csv<br><br>
-Also, the database is created using dataset that has information about Helsinki Region Transport’s (HSL) city bicycle stations.<br><br>
+Also, the database is created using dataset that has information about Helsinki Region Transport’s (HSL) city bicycle stations.<br>
 
 Dataset: https://opendata.arcgis.com/datasets/726277c507ef4914b0aec3cbcfcbfafc_0.csv<br>
 License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunkipyoraasemat/resource/a23eef3a-cc40-4608-8aa2-c730d17e8902<br>
