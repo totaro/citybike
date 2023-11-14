@@ -35,7 +35,7 @@ You can also freely choose the frontend technologies to use. The important part 
  - Average distance of journeys starting from the station
  - Avarage duration of journeys starting from the station<br>
 
-# My solution:
+# Solution:
 javascript and html / express and pg node.js modules / webpack<br>
 
 - Server-side Node.js script (server.js) that connects PostgreSQL database and makes API endpoint for fetching data.
