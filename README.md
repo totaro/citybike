@@ -44,9 +44,9 @@ javascript and html / express and pg node modules / webpack<br>
 
 - webpack.config.js file for configuring Webpack that is used to bundle client.js (command: npx webpack --config webpack.config.js)
 
-- HTML file (index.html) where fetched data is displayed on data-container div. Also includes the bundled script.<br><br>
+- HTML file (index.html) where fetched data is displayed on data-container div. Also includes the bundled script.
 
-- Running server (command: node server.js) and open in browser at http://localhost:3000
+- Running server (command: node server.js) and open in browser at http://localhost:3000<br><br>
 
 ![citybike1](https://github.com/totaro/citybike/assets/66010583/09861c12-ddd2-4b3b-9816-a056a19280f7)
 
