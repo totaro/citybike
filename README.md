@@ -19,25 +19,16 @@ Dataset: https://opendata.arcgis.com/datasets/726277c507ef4914b0aec3cbcfcbfafc_0
 License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunkipyoraasemat/resource/a23eef3a-cc40-4608-8aa2-c730d17e8902
 
 
-<br><b>Functional requirements</b><br>
-Station list
-List all stations
-Link to single station views
-Single station view
-Station name
-Station address
-Total number of journeys starting from the station
-Total number of journeys ending at the station
-Average distance of journeys starting from the station
-Avarage duration of journeys starting from the station
+
 
 - local docker PostgreSQL 
 - station and journey tables
 
-- Station list
+<br><b>Functional requirements</b><br>
+ <b>Station list</b>
  - List all stations
  - Link to single station views
- - Single station view
+ <b>Single station view</b>
  - Station name
  - Station address
  - Total number of journeys starting from the station
