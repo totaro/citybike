@@ -27,7 +27,7 @@ You can also freely choose the frontend technologies to use. The important part 
  <b>Station list</b><br>
  - List all stations
  - Link to single station views
- <b>Station list</b><br>
+ <br><bSingle station views</b><br>
  - Station name
  - Station address
  - Total number of journeys starting from the station
