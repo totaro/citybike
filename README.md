@@ -19,7 +19,7 @@ Dataset: https://opendata.arcgis.com/datasets/726277c507ef4914b0aec3cbcfcbfafc_0
 License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunkipyoraasemat/resource/a23eef3a-cc40-4608-8aa2-c730d17e8902
 
 
-<br>Functional requirements
+<br><b>Functional requirements</b><br>
 Station list
 List all stations
 Link to single station views
