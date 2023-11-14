@@ -13,7 +13,7 @@ You can also freely choose the frontend technologies to use. The important part 
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-05.csv<br>
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-06.csv<br>
 https://dev.hsl.fi/citybikes/od-trips-2021/2021-07.csv<br><br>
-Also, the database is created using dataset that has information about Helsinki Region Transport’s (HSL) city bicycle stations.<br>
+Also, the database is created using dataset that has information about Helsinki Region Transport’s (HSL) city bicycle stations.<br><br>
 
 Dataset: https://opendata.arcgis.com/datasets/726277c507ef4914b0aec3cbcfcbfafc_0.csv<br>
 License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunkipyoraasemat/resource/a23eef3a-cc40-4608-8aa2-c730d17e8902
@@ -43,9 +43,9 @@ Avarage duration of journeys starting from the station
  - Total number of journeys starting from the station
  - Total number of journeys ending at the station
  - Average distance of journeys starting from the station
- - Avarage duration of journeys starting from the station
+ - Avarage duration of journeys starting from the station<br>
 
-#My solution:
+# My solution:
 -javascript and html
 -express and pg node modules, webpack
 
