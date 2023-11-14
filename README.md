@@ -24,11 +24,11 @@ License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunki
 - local docker PostgreSQL 
 - station and journey tables
 
-<br><b>Functional requirements</b><br>
- <b>Station list</b>
+<br><b>Functional requirements</b><br><br>
+ <b>Station list</b><br>
  - List all stations
  - Link to single station views
- <b>Single station view</b>
+ <br><br><b>Single station view</b><br>
  - Station name
  - Station address
  - Total number of journeys starting from the station
