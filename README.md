@@ -26,7 +26,7 @@ You can also freely choose the frontend technologies to use. The important part 
 <br><b>Functional requirements</b><br><br>
  <b>Station list</b><br>
  - List all stations
- - Link to single station views<br><br><b>Single station view</b><br>
+ - Link to single station views<b>Single station view</b><br>
  <b>Station list</b><br>
  - Station name
  - Station address
