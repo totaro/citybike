@@ -1,4 +1,4 @@
-# citybike
+# Project: citybike
 
 https://github.com/solita/dev-academy-spring-2024-exercise
 
