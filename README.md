@@ -36,7 +36,7 @@ License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunki
  - Avarage duration of journeys starting from the station<br>
 
 # My solution:
-javascript and html / express and pg node modules / webpack<br>
+javascript and html / express and pg node.js modules / webpack<br>
 
 - Server-side Node.js script (server.js) that connects PostgreSQL database and makes API endpoint for fetching data.
 
