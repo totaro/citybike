@@ -1,5 +1,7 @@
 # citybike
 
+https://github.com/solita/dev-academy-spring-2024-exercise
+
 Let's imagine that you have received an interesting project offer to create a UI and a backend service for displaying data from journeys made with city bikes in the Helsinki Capital area.
 
 The exercise uses data that is owned by City Bike Finland. We provide database to you in a Docker container, but the original datasets can be downloaded from here:
@@ -8,9 +10,9 @@ Create a web application that uses a backend service to fetch the data. Backend 
 You are provided with Docker setup, with contains a PostgreSQL database with all the necessary data for the exercise.
 You can also freely choose the frontend technologies to use. The important part is to give good instructions on how to build and run the project.
 
-https://dev.hsl.fi/citybikes/od-trips-2021/2021-05.csv
-https://dev.hsl.fi/citybikes/od-trips-2021/2021-06.csv
-https://dev.hsl.fi/citybikes/od-trips-2021/2021-07.csv
+https://dev.hsl.fi/citybikes/od-trips-2021/2021-05.csv<br>
+https://dev.hsl.fi/citybikes/od-trips-2021/2021-06.csv<br>
+https://dev.hsl.fi/citybikes/od-trips-2021/2021-07.csv<br>
 Also, the database is created using dataset that has information about Helsinki Region Transport’s (HSL) city bicycle stations.
 
 Dataset: https://opendata.arcgis.com/datasets/726277c507ef4914b0aec3cbcfcbfafc_0.csv
@@ -43,7 +45,7 @@ Avarage duration of journeys starting from the station
  - Average distance of journeys starting from the station
  - Avarage duration of journeys starting from the station
 
-My solution:
+#My solution:
 -javascript and html
 -express and pg node modules, webpack
 
