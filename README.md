@@ -36,8 +36,16 @@ License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunki
  - Avarage duration of journeys starting from the station<br>
 
 # My solution:
--javascript and html
--express and pg node modules, webpack
+-javascript and html / express and pg node modules / webpack<br><br>
+
+- Server-side script (server.js) that connects PostgreSQL database and makes API endpoint for fetching data.
+
+- Client-side script (client.js) that uses Fetch API to get data from server.
+
+- webpack.config.js file for configuring Webpack that is used to bundle client.js (command: npx webpack --config webpack.config.js)
+
+- HTML file (index.html) where fetched data is shown on data-container div. Also includes the bundled script.
+
 
 
 ![citybike1](https://github.com/totaro/citybike/assets/66010583/09861c12-ddd2-4b3b-9816-a056a19280f7)
