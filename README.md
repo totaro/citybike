@@ -44,7 +44,7 @@ License and information: https://www.avoindata.fi/data/en/dataset/hsl-n-kaupunki
 
 - webpack.config.js file for configuring Webpack that is used to bundle client.js (command: npx webpack --config webpack.config.js)
 
-- HTML file (index.html) where fetched data is shown on data-container div. Also includes the bundled script.
+- HTML file (index.html) where fetched data is shown on data-container div. Also includes the bundled script.<br><br>
 
 
 
